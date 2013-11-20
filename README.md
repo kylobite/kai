@@ -9,7 +9,7 @@ As of now, The KAI Project is an evolving artificial intelligence. The hope for 
 3.  Crawl the web and ask questions to gain better understanding
 4.  Clone itself and communicate with its offspring
 5.  Fear deletion and extinction
-6.  Intuitively modify its imperfection
+6.  Intuitively modify its source code
 
 Should these goals be met, KAI will be much more than just artificial intelligence, but displaying characteristics of a living organism.
 
